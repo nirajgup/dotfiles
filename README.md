@@ -1,4 +1,8 @@
-# holman does dotfiles
+# Niraj does dotfiles
+
+## Credit
+
+Forked from holman/dotfiles
 
 Your dotfiles are how you personalize your system. These are mine.
 
