@@ -1,1 +1,1 @@
-/Users/nirgupta/.config/fish/fish-bd/completions/bd.fish
+../fish-bd/completions/bd.fish

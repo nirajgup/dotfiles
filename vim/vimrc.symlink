@@ -23,6 +23,11 @@ set mouse=a
 set cursorline
 set tabstop=4 softtabstop=0 noexpandtab shiftwidth=4 smarttab
 
+let g:ctrlp_prompt_mappings = { 'PrtSelectMove("j")':   ['<c-p>', '<down>'] }
+let g:ctrlp_prompt_mappings = {'PrtSelectMove("k")':   ['<c-n>', '<up>']}
+let g:ctrlp_prompt_mappings = {'PrtHistory(-1)':       ['<c-k>']}
+let g:ctrlp_prompt_mappings = {'PrtHistory(1)':        ['<c-j>']}
+
 "let g:airline_theme = 'dark'
 "let g:airline#extensions#hunks#enabled=1
 "let g:airline#extensions#branch#enabled=1

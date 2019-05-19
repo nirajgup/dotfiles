@@ -1,1 +1,1 @@
-/Users/nirgupta/.config/fish/fish-bd/functions/bd.fish
+../fish-bd/functions/bd.fish
